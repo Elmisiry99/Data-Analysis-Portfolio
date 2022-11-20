@@ -1,0 +1,1 @@
+This folder contains the sales csv files for each month in 2019
